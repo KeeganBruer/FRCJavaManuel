@@ -3,7 +3,7 @@ A Complete Guide To How To Program A Robot For FRC In Java
 
 Keegan Bruer
 
-Introduction {#Intro}
+Introduction
 ============
 
 Are you new to FRC or to programming with the WPI Library (WPILib)? This
@@ -13,7 +13,7 @@ Java but almost all of the concepts discussed can be recreated in the
 language of your choosing. This paper does assume at least a beginning
 knowledge of the Java language.
 
-Downloading and Setting Up Eclipse {#eclipse}
+Downloading and Setting Up Eclipse
 ==================================
 
 Before we can get started programming, we need to download and setup
@@ -56,7 +56,7 @@ To Install The WPI Library Plugin
 
 6.  Finally just go through and accept the terms and click finish.
 
-Setting Up A New Project {#ProjectSetup}
+Setting Up A New Project 
 ========================
 
 To get started programming with the WPI Library you first have to create
@@ -119,7 +119,7 @@ file.
         }
     }
 
-Motor Controllers {#MotorMovement}
+Motor Controllers 
 =================
 
 Controlling a motor is one of the, if not the, most important aspects of
@@ -156,7 +156,7 @@ controllers.
         }
     }
 
-Creating A New Class {#newClass}
+Creating A New Class 
 ====================
 
 Creating a new class is an important part of Java programming. Classes
@@ -172,5 +172,5 @@ To Create A New Class
     classes start with a capital letter, are camel case, and have no
     spaces in them).
 
-Creating a Drive Train {#DriveTrain}
+Creating a Drive Train 
 ======================
